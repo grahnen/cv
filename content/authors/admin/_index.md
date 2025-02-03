@@ -138,4 +138,6 @@ awards:
 
 ## About Me
 
+This page is currently under construction!
+
 I am a PhD student at Uppsala University, working on formal verification of concurrent systems. I have mainly focused on weak memory models and linearizability.
