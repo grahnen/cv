@@ -56,14 +56,16 @@ education:
       url: 'https://example.com'
   - area: MSc Computer Science
     institution: Uppsala University
-    date_start: 2019
-    date_end: 2021
+    date_start: 2019-08-30
+    date_end: 2021-02-15
   - area: BSc Computer Science
     institution: Uppsala University
-    date_end: 2019
+    date_start: 2013-08-30
+    date_end: 2019-06-10
   - area: BSc Mathematics
     institution: Uppsala University
-    date_end: 2019
+    date_start: 2013-08-30
+    date_end: 2019-06-10
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
