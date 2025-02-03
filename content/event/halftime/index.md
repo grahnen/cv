@@ -17,7 +17,7 @@ abstract: 'We present efficient and novel algorithms for checking the linearizab
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-01-14T14:15'
+date: '2025-01-14T14:15:00Z'
 date_end: '2030-06-01T16:00:00Z'
 all_day: false
 
