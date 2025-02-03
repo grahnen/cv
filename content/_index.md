@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Samuel Grahn"
 date: 2022-10-24
 type: landing
 
@@ -29,7 +29,7 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: false 
   - block: markdown
     content:
       title: '📚 My Research'
