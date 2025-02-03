@@ -34,12 +34,12 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      text: |
+        I am currently employed as a PhD student at Uppsala University, where I am working on formal verification of concurrent systems with my supervisors Parosh Abdulla, Bengt Jonsson and Mohamed Faouzi Atig.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am interested in formal verification, and in interactive theorem provers, such as Lean, Coq, and Isabelle.
+
+        As my PhD draws to an end, I am looking for employment as a postdoctoral researcher in one of the above mentioned areas.
     design:
       columns: '1'
   - block: collection
