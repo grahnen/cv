@@ -3,7 +3,7 @@
 title: Samuel Grahn
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Samuel Grahn
 
 # Full name (for SEO)
 first_name: Samuel
@@ -131,6 +131,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+---
 
 ## About Me
 
