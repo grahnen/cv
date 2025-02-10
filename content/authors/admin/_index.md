@@ -112,18 +112,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Gardening & Bonsai
+      - name: Plants & Bonsai
         description: ''
         percent: 60
-        icon: leaf
+        icon: "custom/seedling"
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: "custom/cat"
       - name: Music
         description: ''
         percent: 80
-        icon: guitar
+        icon: "custom/guitar"
 
 languages:
   - name: Swedish (native)
