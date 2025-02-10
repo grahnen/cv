@@ -115,15 +115,15 @@ skills:
       - name: Plants & Bonsai
         description: ''
         percent: 60
-        icon: "custom/seedling"
+        icon: fa-hand-holding-seedling
       - name: Cats
         description: ''
         percent: 100
-        icon: "custom/cat"
+        icon: fa-cat
       - name: Music
         description: ''
         percent: 80
-        icon: "custom/guitar"
+        icon: fa-guitar
 
 languages:
   - name: Swedish (native)
