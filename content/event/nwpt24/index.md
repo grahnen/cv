@@ -43,7 +43,7 @@ featured: false
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com/grahnen/slides/nwpt24/'
 # url_pdf: ''
-url_slides: 'https://grahnen.github.io/slides/nwpt24/'
+url_slides: 'https://grahnen.github.io/slides/NWPT24/without_notes.pdf'
 # url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
