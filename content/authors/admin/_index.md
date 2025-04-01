@@ -10,8 +10,8 @@ first_name: Samuel
 last_name: Grahn
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,7 +40,8 @@ profiles:
 
 interests:
   - Formal Verification
-  - Concurrency
+  - Concurrency Theory
+  - Logic
   - Automated and Interactive Theorem Proving
   - Formalizing Mathematics
   
@@ -51,19 +52,28 @@ education:
     date_end: 2026-02-15
     summary: |
       Thesis on _Formal verification of concurrent systems_. Supervised by [Prof. Bengt Jonsson, Parosh Abdulla].
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MSc Computer Science
     institution: Uppsala University
+    button:
+      text: 'Read Thesis'
+      url: 'https://grahnen.github.io/slides/misc/masterthesis.pdf'
     date_start: 2019-08-30
     date_end: 2021-02-15
   - area: BSc Computer Science
     institution: Uppsala University
+    button:
+      text: 'Read Thesis'
+      url: 'https://uu.diva-portal.org/smash/record.jsf?pid=diva2:1369286'
     date_start: 2013-08-30
     date_end: 2019-06-10
   - area: BSc Mathematics
     institution: Uppsala University
+    button:
+      text: 'Read Thesis'
+      url: 'https://uu.diva-portal.org/smash/record.jsf?pid=diva2:957144'
     date_start: 2013-08-30
     date_end: 2019-06-10
 # work:

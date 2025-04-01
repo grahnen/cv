@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -37,22 +37,22 @@ sections:
       text: |
         I am currently employed as a PhD student at Uppsala University, where I am working on formal verification of concurrent systems with my supervisors Parosh Abdulla, Bengt Jonsson and Mohamed Faouzi Atig.
 
-        I am interested in formal verification, and in interactive theorem provers, such as Lean, Coq, and Isabelle.
-
+        I am interested in formal and automated verification, as well as interactive theorem proving, using tools such as Lean, Coq, and Isabelle.
+        
         As my PhD draws to an end, I am looking for employment as a postdoctoral researcher in one of the above mentioned areas.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
     content:
       title: Recent Publications

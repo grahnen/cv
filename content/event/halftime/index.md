@@ -41,7 +41,7 @@ featured: false
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com/grahnen/slides'
+url_code: 'https://github.com/grahnen/LiMo'
 # url_pdf: ''
 url_slides: 'https://grahnen.github.io/slides/halftime/'
 # url_video: 'https://youtube.com'
@@ -51,7 +51,7 @@ url_slides: 'https://grahnen.github.io/slides/halftime/'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+# slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
