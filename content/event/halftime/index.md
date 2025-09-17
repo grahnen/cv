@@ -1,5 +1,5 @@
 ---
-title: Halftime Seminar: Efficient Linearizability Monitoring
+title: Halftime Seminar, Efficient Linearizability Monitoring
 event: Halftime Seminar
 # event_url: https://example.org
 
