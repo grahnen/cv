@@ -3,6 +3,7 @@
 title: "Samuel Grahn"
 date: 2025-09-17
 type: landing
+share: false
 
 design:
   # Default section spacing
