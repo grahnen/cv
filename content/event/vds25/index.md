@@ -1,10 +1,9 @@
 ---
-title: Halftime Seminar: Efficient Linearizability Monitoring
-event: Halftime Seminar
-# event_url: https://example.org
+title: Efficient Linearizability Monitoring
+event: VDS25
+event_url: https://netys.net/wds2025/VDS25.html
 
-location: Uppsala University
-
+location: Rabat, Morocco
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -17,7 +16,7 @@ abstract: 'We present efficient and novel algorithms for checking the linearizab
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-01-14T14:15:00Z'
+date: '2025-0'
 date_end: '2030-06-01T16:00:00Z'
 all_day: false
 
