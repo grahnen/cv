@@ -55,9 +55,9 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: publications
     content:
       title: Recent Publications
-      id: publications
       filters:
         folders:
           - publication
@@ -65,9 +65,9 @@ sections:
     design:
       view: citation
   - block: collection
+    id: awards
     content:
       title: Awards
-      id: awards
       filters:
         folders:
           - awards
