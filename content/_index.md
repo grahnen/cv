@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Samuel Grahn"
-date: 2022-10-24
+date: 2025-09-17
 type: landing
 
 design:
@@ -41,7 +41,7 @@ sections:
         
         As my PhD draws to an end, I am looking for employment as a postdoctoral researcher in one of the above mentioned areas.
     design:
-    columns: '1'
+      columns: '1'
   # - block: collection
   #   id: papers
   #   content:
