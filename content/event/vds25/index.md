@@ -16,8 +16,8 @@ abstract: 'We present efficient and novel algorithms for checking the linearizab
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-0'
-date_end: '2030-06-01T16:00:00Z'
+date: '2025-05-19T0900:00Z'
+date_end: '2030-05-21T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

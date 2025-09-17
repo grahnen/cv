@@ -17,8 +17,8 @@ abstract: 'This paper revisits the fundamental problem of monitoring the lineari
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-19'
-date_end: '2025-05-21'
+date: '2025-06-16T0900:00Z'
+date_end: '2025-06-20T1800:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
