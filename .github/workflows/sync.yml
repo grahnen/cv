@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Template Sync
-        uses: BernhardStrauss/actions-template-sync@v0.8.0
+        uses: AndreasAugustin/actions-template-sync@v2.5.2
         with:
           source_repo: "https://github.com/HugoBlox/theme-academic-cv.git"
           source_branch: "main"
