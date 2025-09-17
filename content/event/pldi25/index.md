@@ -44,7 +44,7 @@ featured: false
 url_code: 'https://github.com/grahnen/LiMo'
 # url_pdf: ''
 url_slides: 'https://grahnen.github.io/slides/vds25/'
-#url_video: 'https://www.youtube.com/watch?v=CJHvBcLe9YI'
+url_video: 'https://www.youtube.com/watch?v=CJHvBcLe9YI'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
