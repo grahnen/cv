@@ -57,6 +57,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
+      id: publication
       text: ""
       filters:
         folders:
@@ -64,6 +65,15 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    content:
+      title: Awards
+      id: awards
+      text: ""
+      filters:
+        folders:
+          - awards
+        exclude_featured: false
   - block: collection
     id: talks
     content:
