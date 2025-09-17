@@ -57,8 +57,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      id: publication
-      text: ""
+      id: publications
       filters:
         folders:
           - publication
@@ -69,7 +68,6 @@ sections:
     content:
       title: Awards
       id: awards
-      text: ""
       filters:
         folders:
           - awards
