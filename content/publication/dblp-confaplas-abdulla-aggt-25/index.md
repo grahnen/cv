@@ -21,4 +21,6 @@ links:
   url: https://doi.org/10.1007/978-981-95-3585-9_9
 - name: arXiv
   url: https://doi.org/10.48550/arXiv.2508.07855
+- name: Implementation
+  url: https://github.com/grahnen/edchecker
 ---

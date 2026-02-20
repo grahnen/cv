@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Thesis
+summary: My PhD Thesis
 type: landing
 
 cascade:

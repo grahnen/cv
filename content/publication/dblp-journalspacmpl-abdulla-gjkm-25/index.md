@@ -20,4 +20,8 @@ links:
   url: https://doi.org/10.1145/3729328
 - name: arXiv
   url: https://doi.org/10.48550/arXiv.2509.17795
+- name: Implementation
+  url: https://github.com/grahnen/LiMo
+- name: Mechanisation
+  url: https://github.com/grahnen/LinearizabilityTheory
 ---
