@@ -11,9 +11,12 @@ cascade:
 
 sections:
   - block: markdown
-    title: 'Thesis'
-    text: |
-      The thesis is a compilation of the papers mentioned below. It will consist of the papers, as well as a /kappa/, which I am currently writing. Once there is a rough draft i will upload it here.
+    content:
+      title: 'Thesis'
+      text: |
+        The thesis is a compilation of the papers mentioned below. It will consist of the papers, as well as a /kappa/, which I am currently writing. Once there is a rough draft i will upload it here.
+    design:
+      columns: '1'
   - block: collection
     id: thesispapers
     content:
