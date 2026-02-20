@@ -15,10 +15,10 @@ sections:
     content:
       title: Publications in Thesis
       filters:
-        tags:
-          - Thesis
-        folder:
+        folders:
           - publication
+        tags: 
+          - thesis
     design:
       view: citation
 ---

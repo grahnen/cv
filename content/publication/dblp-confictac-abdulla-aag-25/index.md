@@ -13,6 +13,8 @@ publication: '*Theoretical Aspects of Computing - ICTAC 2025 - 22nd Internationa
   Colloquium, Marrakech, Morocco, November 24-28, 2025, Proceedings*'
 doi: 10.1007/978-3-032-11176-0_8
 arxivdoi: 10.48550/ARXIV.2506.08238
+tags:
+  - thesis
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-032-11176-0_8

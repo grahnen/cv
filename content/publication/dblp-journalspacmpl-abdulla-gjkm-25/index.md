@@ -13,6 +13,8 @@ publication_types:
 publication: '*Proc. ACM Program. Lang.*'
 doi: 10.1145/3729328
 arxivdoi: 10.48550/ARXIV.2509.17795
+tags:
+  - thesis
 links:
 - name: URL
   url: https://doi.org/10.1145/3729328

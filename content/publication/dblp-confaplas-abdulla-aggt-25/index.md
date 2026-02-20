@@ -14,6 +14,8 @@ publication: '*Programming Languages and Systems - 23rd Asian Symposium, APLAS 2
   Bengaluru, India, October 27-30, 2025, Proceedings*'
 doi: 10.1007/978-981-95-3585-9_9
 arxivdoi: 10.48550/ARXIV.2508.07855
+tags:
+  - thesis
 links:
 - name: URL
   url: https://doi.org/10.1007/978-981-95-3585-9_9
