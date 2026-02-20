@@ -1,38 +1,120 @@
-@article{10.1145/3729328,
-author = {Abdulla, Parosh Aziz and Grahn, Samuel and Jonsson, Bengt and Krishna, Shankaranarayanan and Mishra, Om Swostik},
-title = {Efficient Linearizability Monitoring},
-year = {2025},
-issue_date = {June 2025},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {9},
-number = {PLDI},
-url = {https://doi.org/10.1145/3729328},
-doi = {10.1145/3729328},
-abstract = {This paper revisits the fundamental problem of monitoring the linearizability of concurrent stacks, queues, sets, and multisets. Given a history of a library implementing one of these abstract data types, the monitoring problem is to answer whether the given history is linearizable. For stacks, queues, and (multi)sets, we present monitoring algorithms with complexities (n2), (n log n), and (n), respectively, where n is the number of operations in the input history. For stacks and queues, our results hold under the standard assumption of data-independence, i.e., the behavior of the library is not sensitive to the actual values stored in the data structure. Past works to solve the same problems have cubic time complexity and (more seriously) have correctness issues: they either (i) lack correctness proofs or (ii) have unsound correctness proofs (we present counter-examples of the correctness proofs), or (iii) have unsound algorithms. Our improved complexity results rely on substantially different algorithms for which we provide detailed proofs of correctness. We have implemented our stack and queue algorithms in LiMo (Linearizability Monitor). We evaluate LiMo and compare it with the state-of-the-art tool Violin – whose correctness proofs we have found errors in – which checks for linearizability violations. Our experimental evaluation confirms that LiMo outperforms Violin regarding both efficiency and scalability.},
-journal = {Proc. ACM Program. Lang.},
-month = jun,
-articleno = {225},
-numpages = {24},
-keywords = {Concurrent Data Structures, Linearizability, Testing}
+@article{DBLP:journals/pacmpl/AbdullaGJKM25,
+  author       = {Parosh Aziz Abdulla and
+                  Samuel Grahn and
+                  Bengt Jonsson and
+                  Shankaranarayanan Krishna and
+                  Om Swostik Mishra},
+  title        = {Efficient Linearizability Monitoring},
+  journal      = {Proc. {ACM} Program. Lang.},
+  volume       = {9},
+  number       = {{PLDI}},
+  pages        = {1937--1960},
+  year         = {2025},
+  url          = {https://doi.org/10.1145/3729328},
+  doi          = {10.1145/3729328},
+  timestamp    = {Sat, 06 Sep 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/pacmpl/AbdullaGJKM25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
-@misc{abdulla2025verificationreleaseacquiresemantics,
-      title={Verification of the Release-Acquire Semantics}, 
-      author={Parosh Abdulla and Elli Anastasiadi and Mohamed Faouzi Atig and Samuel Grahn},
-      year={2025},
-      eprint={2506.08238},
-      archivePrefix={arXiv},
-      primaryClass={cs.PL},
-      url={https://arxiv.org/abs/2506.08238}, 
+@inproceedings{DBLP:conf/aplas/AbdullaAGGT25,
+  author       = {Parosh Aziz Abdulla and
+                  Mohamed Faouzi Atig and
+                  R. Govind and
+                  Samuel Grahn and
+                  Ramanathan S. Thinniyam},
+  editor       = {Alex Potanin},
+  title        = {Checking Consistency of Event-Driven Traces},
+  booktitle    = {Programming Languages and Systems - 23rd Asian Symposium, {APLAS}
+                  2025, Bengaluru, India, October 27-30, 2025, Proceedings},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {16201},
+  pages        = {173--194},
+  publisher    = {Springer},
+  year         = {2025},
+  url          = {https://doi.org/10.1007/978-981-95-3585-9\_9},
+  doi          = {10.1007/978-981-95-3585-9\_9},
+  timestamp    = {Sun, 16 Nov 2025 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/aplas/AbdullaAGGT25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
-@misc{abdulla2025checkingconsistencyeventdriventraces,
-      title={Checking Consistency of Event-driven Traces}, 
-      author={Parosh Aziz Abdulla and Mohamed Faouzi Atig and R. Govind and Samuel Grahn and Ramanathan S. Thinniyam},
-      year={2025},
-      eprint={2508.07855},
-      archivePrefix={arXiv},
-      primaryClass={cs.PL},
-      url={https://arxiv.org/abs/2508.07855}, 
+@inproceedings{DBLP:conf/ictac/AbdullaAAG25,
+  author       = {Parosh Aziz Abdulla and
+                  Elli Anastasiadi and
+                  Mohamed Faouzi Atig and
+                  Samuel Grahn},
+  editor       = {Zhiming Liu and
+                  Adnane Saoud and
+                  Heike Wehrheim},
+  title        = {Verification of the Release-Acquire Semantics},
+  booktitle    = {Theoretical Aspects of Computing - {ICTAC} 2025 - 22nd International
+                  Colloquium, Marrakech, Morocco, November 24-28, 2025, Proceedings},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {16237},
+  pages        = {106--123},
+  publisher    = {Springer},
+  year         = {2025},
+  url          = {https://doi.org/10.1007/978-3-032-11176-0\_8},
+  doi          = {10.1007/978-3-032-11176-0\_8},
+  timestamp    = {Sun, 01 Feb 2026 00:00:00 +0100},
+  biburl       = {https://dblp.org/rec/conf/ictac/AbdullaAAG25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+
+@article{DBLP:journals/corr/abs-2506-08238,
+  author       = {Parosh Aziz Abdulla and
+                  Elli Anastasiadi and
+                  Mohamed Faouzi Atig and
+                  Samuel Grahn},
+  title        = {Verification of the Release-Acquire Semantics},
+  journal      = {CoRR},
+  volume       = {abs/2506.08238},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2506.08238},
+  doi          = {10.48550/ARXIV.2506.08238},
+  eprinttype    = {arXiv},
+  eprint       = {2506.08238},
+  timestamp    = {Mon, 07 Jul 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2506-08238.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2508-07855,
+  author       = {Parosh Aziz Abdulla and
+                  Mohamed Faouzi Atig and
+                  R. Govind and
+                  Samuel Grahn and
+                  Ramanathan S. Thinniyam},
+  title        = {Checking Consistency of Event-driven Traces},
+  journal      = {CoRR},
+  volume       = {abs/2508.07855},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2508.07855},
+  doi          = {10.48550/ARXIV.2508.07855},
+  eprinttype    = {arXiv},
+  eprint       = {2508.07855},
+  timestamp    = {Mon, 15 Sep 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2508-07855.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2509-17795,
+  author       = {Parosh Aziz Abdulla and
+                  Samuel Grahn and
+                  Bengt Jonsson and
+                  Shankaranarayanan Krishna and
+                  Om Swostik Mishra},
+  title        = {Efficient Linearizability Monitoring},
+  journal      = {CoRR},
+  volume       = {abs/2509.17795},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2509.17795},
+  doi          = {10.48550/ARXIV.2509.17795},
+  eprinttype    = {arXiv},
+  eprint       = {2509.17795},
+  timestamp    = {Sat, 18 Oct 2025 01:00:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2509-17795.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
