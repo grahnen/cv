@@ -14,7 +14,7 @@ sections:
     content:
       title: 'Thesis'
       text: |
-        The thesis is a compilation of the papers mentioned below. It will consist of the papers, as well as a /kappa/, which I am currently writing. Once there is a rough draft i will upload it here.
+        The thesis is a compilation of the papers mentioned below. It consists of the papers and a comprehensive summary (kappa). It is available here: https://grahnen.se/uploads/thesis.pdf
     design:
       columns: '1'
   - block: collection
